@@ -1,0 +1,2 @@
+headers=cn_kotliner.h
+compilerOpts=-Isrc/c
